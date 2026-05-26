@@ -6,4 +6,4 @@ while b <= 100:
     a, b = b, a + b
 
 print("Fibonacci numbers up to 100:")
-print(fibonacci_sequence)
+print(fibonacci)
