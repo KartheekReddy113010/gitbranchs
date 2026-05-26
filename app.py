@@ -1,4 +1,4 @@
-a, b = 0, 1
+b = 0, 2
 fibonacci_sequence = []
 
 while b <= 100:
